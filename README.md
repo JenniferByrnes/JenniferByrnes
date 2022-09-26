@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there ☕️
 - 🔭 I’m currently finishing up my FullStack Bootcamp class
 - 🌱 and learning REACT
 - 😄 Pronouns: She/Her
