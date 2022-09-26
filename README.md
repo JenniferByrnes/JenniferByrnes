@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently finihsing up my FullStack Bootcamp class
+- 🔭 I’m currently finishing up my FullStack Bootcamp class
 - 🌱 and learning REACT
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: lifetime Girl Scout
